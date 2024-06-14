@@ -26,6 +26,9 @@ Labels and Title:
 
 - Add appropriate labels for the x-axis (Year), y-axis (Sea Level (inches)), and a title (Rise in Sea Level).
 
+## Dataset
+The dataset is sourced from the US Environmental Protection Agency, using data from CSIRO (2015) and NOAA (2015).
+
 ## Development
 - sea_level_predictor.py: Contains the main function draw_plot() which performs the data analysis and visualization.
 - main.py: Used to run and test the draw_plot() function.
